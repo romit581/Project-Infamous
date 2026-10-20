@@ -1,0 +1,1 @@
+"""inFAMOUS PC Launcher package."""

@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+env/
+ENV/
+
+# Build and packaging
+build/
+dist/
+*.spec
+*.egg-info/
+
+# Local app settings and user data
+infamous_launcher.json
+user/
+logs/
+saves/
+shader_cache/
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Game files — never commit proprietary game data
+PS3_GAME/
+PS3_DISC.SFB
+*.iso
+*.iso.0
+EBOOT.BIN
+*.SELF
+*.sprx
